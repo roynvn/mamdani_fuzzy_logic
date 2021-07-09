@@ -10,6 +10,7 @@ yaitu memiliki nilai kesamaran
 
    <h2> Nilai Linguistik </h2>
 <br> 1. Kesadahan 
+![Kekeruhan](https://github.com/roynvn/mamdani_fuzzy_logic/kekeruhan.png)
 <br> 2. Kekeruhan
 <br> 3. Nilai zat terlarut 
 
