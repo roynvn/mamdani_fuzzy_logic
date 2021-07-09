@@ -10,7 +10,7 @@ yaitu memiliki nilai kesamaran
 
    <h2> Nilai Linguistik </h2>
 <p>
-1. Kesadahan
+1. Kesadahan <\n>
 2. Kekeruhan
 3. Nilai zat terlarut 
 </p>
