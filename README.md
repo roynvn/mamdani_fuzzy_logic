@@ -11,6 +11,6 @@ yaitu memiliki nilai kesamaran
    <h2> Nilai Linguistik </h2>
 <br> 1. Kesadahan 
 <br> 2. Kekeruhan
-<br< 3. Nilai zat terlarut 
+<br> 3. Nilai zat terlarut 
 
   
