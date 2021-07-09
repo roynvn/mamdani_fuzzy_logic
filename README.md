@@ -1,2 +1,2 @@
 # mamdani_fuzzy_logic
-Fuzzy Logic with Mamdani Method
+<h1> Logika Fuzzy menggunakan metode Mamdani <h1>
