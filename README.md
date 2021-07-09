@@ -9,9 +9,8 @@ yaitu memiliki nilai kesamaran
 </>
 
    <h2> Nilai Linguistik </h2>
-<p>
-1. Kesadahan <\n>
-2. Kekeruhan
-3. Nilai zat terlarut 
-</p>
+<br> 1. Kesadahan 
+<br> 2. Kekeruhan
+<br< 3. Nilai zat terlarut 
+
   
