@@ -1,5 +1,5 @@
 # mamdani_fuzzy_logic
-<h1> Logika Fuzzy menggunakan metode Mamdani <h1>
+<h1> Logika Fuzzy menggunakan metode Mamdani </h1>
 p {text-align: center;}
  
   <h2> Logika Fuzzy </h2>
